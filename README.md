@@ -1,6 +1,6 @@
 # Googlies
 
-[Googlies](www.googlies.pro) is an open-source dynamic website solution without a traditional database, built with Next.js, Tailwind CSS, and Shadcn/UI. It leverages GitHub as a content management system, providing a seamless way to create and manage website content.
+[Googlies](https://www.googlies.pro) is an open-source dynamic website solution without a traditional database, built with Next.js, Tailwind CSS, and Shadcn/UI. It leverages GitHub as a content management system, providing a seamless way to create and manage website content.
 
 ![Googlies](https://toimg.xyz/file/5aa892c8e8385232fcdf3.png)
 
