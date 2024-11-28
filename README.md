@@ -1,6 +1,6 @@
 # Googlies
 
-[Googlies](https://aibesttop.com/) is an open-source dynamic website solution without a traditional database, built with Next.js, Tailwind CSS, and Shadcn/UI. It leverages GitHub as a content management system, providing a seamless way to create and manage website content.
+[Googlies](www.googlies.pro) is an open-source dynamic website solution without a traditional database, built with Next.js, Tailwind CSS, and Shadcn/UI. It leverages GitHub as a content management system, providing a seamless way to create and manage website content.
 
 ![Googlies](https://toimg.xyz/file/5aa892c8e8385232fcdf3.png)
 
@@ -72,7 +72,7 @@ Visit `http://localhost:3000` to see your Googlies instance running locally.
    - `ACCESS_PASSWORD`
 4. Deploy the project.
 
-For a detailed deployment guide, please refer to our [Installation and Deployment Guide](https://aibesttop.com/posts/Googlies-install-guide).
+For a detailed deployment guide, please refer to our [Installation and Deployment Guide](www.googlies.pro).
 
 ## Usage
 
@@ -83,7 +83,7 @@ For a detailed deployment guide, please refer to our [Installation and Deploymen
 
 ## Contributing
 
-We welcome contributions to Googlies! Please read our [Contributing Guide](https://aibesttop.com/posts/how-to-contributing-to-Googlies) for details on our code of conduct and the process for submitting pull requests.
+We welcome contributions to Googlies! Please read our [Contributing Guide](www.googlies.pro) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
