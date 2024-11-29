@@ -72,7 +72,7 @@ Visit `http://localhost:3000` to see your Googlies instance running locally.
    - `ACCESS_PASSWORD`
 4. Deploy the project.
 
-For a detailed deployment guide, please refer to our [Installation and Deployment Guide](www.googlies.pro).
+For a detailed deployment guide, please refer to our [Installation and Deployment Guide](https://www.googlies.pro).
 
 ## Usage
 
